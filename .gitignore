@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+.DS_Store
+target/
+*.iml
 
 # BlueJ files
 *.ctxt
