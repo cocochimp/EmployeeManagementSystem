@@ -1,7 +1,6 @@
-# 08_SpringBoot_sms
+# EmployeeManagementSystem
 
-> springboot员工管理系统（没数据库版本）
-
+基于SpringBoot框架的员工管理系统（狂神说无数据库版本）
 
 
 ## 1. 导入静态资源
